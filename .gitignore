@@ -1,0 +1,4 @@
+.vscode/
+__pycache__/
+venv/
+fake.bash_profile
